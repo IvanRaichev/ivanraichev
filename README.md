@@ -7,7 +7,14 @@ ___
 
 I'm an aspiring web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My path in it started with a programmer training at university, specializing in Computer Technologies. During my studies I tried myself in many directions, I tried to learn C++, C# + Unity, python, java, js, but most of all I was hooked on web development!  Since 2023 I started to study web development in depth. At the moment my studies in Computer Science have been completed, my thesis was on web development. You can see it in the pinned
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/IvanRaichev/ivanraichev/blob/main/assets/github-contribution-grid-snake2.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
 - :telescope:  Graduated from Odessa National University.
 
