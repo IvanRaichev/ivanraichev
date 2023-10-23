@@ -19,7 +19,7 @@ I'm an beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 - :telescope:  Graduated from Odessa National University.
 
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-ivanraichev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/CryptoMrGengar) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lalkarus51@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-ivanraichev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/CryptoMrGengar) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lalkarus51@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-red?style=flat&logo=Gmail&logoColor=white)](mailto:lalkarus51@gmail.com)
 
 ---
 
