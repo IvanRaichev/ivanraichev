@@ -5,8 +5,7 @@ ___
 
 ###  About me:
 
-
-I'm Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My path in it started with a programmer training at university, specializing in Computer Technologies. During my studies I tried myself in many directions, I tried to learn C++, C# + Unity, python, java, js, but most of all I was hooked on web development!  Since 2021 I started to study web development in depth. At the moment my studies in Computer Science have been completed, my thesis was on web development. You can see it in the pinned
+I'm Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My path in it started with a programmer training at university, specializing in Computer Technologies. During my studies I tried myself in many directions, I tried to learn C++, C# + Unity, Python, Java, JavaScript, but most of all I was hooked on web development!  Since 2021 I started to study web development in depth. At the moment my studies in Computer Science have been completed, my thesis was on web development. You can see it in the pinned
 
 <div align="center">
   <br>
