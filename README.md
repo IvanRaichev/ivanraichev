@@ -51,6 +51,10 @@ I'm Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ---
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/IvanRaichev/badges/large)
+
 ### ⚙️ GitHub stat:
 
 <table>
