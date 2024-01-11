@@ -18,7 +18,7 @@ I'm Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :telescope:  Graduated from Odessa National Maritime University.
 
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-ivanraichev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/CryptoMrGengar) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lalkarus51@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/ivan-raichev-5a8125295/)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-ivanraichev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IvanRaichev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lalkarus51@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/ivan-raichev-5a8125295/)
 
 ---
 
